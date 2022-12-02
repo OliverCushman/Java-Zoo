@@ -101,7 +101,6 @@ public abstract class Animal
     return "Abstract animal";
   }
   
-  
   /**
    * This will return the animal's name. What's the default name?
    * 
