@@ -6,12 +6,12 @@ public class CushmanOliver extends Animal
   
   @Override
   public String getName() {
-    return "megalodon";
+    return "Megan";
   }
   
   @Override
   public String getType() {
-    return "shark";
+    return "megalodon";
   }
   
   @Override
